@@ -5,6 +5,9 @@
 #リスト
 
 ## 標準&プラットフォーム
+### ネットワーク外部性
+- [ネットワーク外部性(文献リスト)](https://github.com/icat-lab/refnetwork/wiki/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%A4%96%E9%83%A8%E6%80%A7)
+
 ### ドミナントデザイン
 - [David, P. A. (1985). Clio and the Economics of QWERTY. _American Economic Review, 75_(2), 332-37.](https://github.com/icat-lab/icat_lab/wiki/Clio-and-the-Economics-of-QWERTY)
 
